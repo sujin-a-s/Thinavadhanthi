@@ -1,0 +1,12 @@
+{
+  "/create-post/page": "app/create-post/page.js",
+  "/categories/[catName]/page": "app/categories/[catName]/page.js",
+  "/sign-in/page": "app/sign-in/page.js",
+  "/Dashboard/page": "app/Dashboard/page.js",
+  "/api/authors/[email]/route": "app/api/authors/[email]/route.js",
+  "/api/posts/route": "app/api/posts/route.js",
+  "/api/categories/route": "app/api/categories/route.js",
+  "/edit-post/[id]/page": "app/edit-post/[id]/page.js",
+  "/api/posts/[id]/route": "app/api/posts/[id]/route.js",
+  "/api/removeImage/route": "app/api/removeImage/route.js"
+}
